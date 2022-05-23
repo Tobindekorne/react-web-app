@@ -1,0 +1,15 @@
+{
+  "name": "react-web-app",
+  "version": "1.0.0",
+  "description": "```bash npm init -y npm i creat-react-app npx create-react-app my-app cd my-app npm start ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
