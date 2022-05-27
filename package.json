@@ -1,24 +1,15 @@
 {
-  "name": "react-web-app",
-  "version": "1.0.0",
-  "description": "```bash npm init -y npm i creat-react-app npx create-react-app my-app cd my-app npm start ```",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@wdio/cli": "^7.19.7",
-    "create-react-app": "^5.0.1"
-  },
-  "devDependencies": {
-    "@wdio/local-runner": "^7.19.7",
-    "@wdio/mocha-framework": "^7.19.7",
-    "@wdio/sauce-service": "^7.19.7",
-    "@wdio/spec-reporter": "^7.19.7",
-    "chromedriver": "^101.0.0",
-    "wdio-chromedriver-service": "^7.3.2"
-  }
+    "name": "react-web-app",
+    "version": "1.0.0",
+    "description": "```bash npm init -y npm i creat-react-app npx create-react-app my-app cd my-app npm start ```",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "create-react-app": "^5.0.1"
+    }
 }
